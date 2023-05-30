@@ -1,0 +1,56 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+  background-image: url( https://wallpaperaccess.com/full/914521.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
+
+
+
+h1.display-1{
+  color: rgb(112, 5, 235);
+  
+}
+
+.bi {
+  font-size: 1.5em;
+  cursor: pointer;
+  color: rgb(0, 0, 0);
+}
+
+.imgFrame {
+  height: 400px;
+ 
+}
+
+.js-delete{
+ color:black
+}
+
+
+.btn-custom {
+  background-color: rgb(84, 7, 129);
+}
+
+
+.btn-custom:hover {
+  background-color: rgb(0, 0, 0); /* Change the color to your desired hover background color */
+  color: rgb(97, 12, 208); 
+}
+
+
+
+    .custom-box {
+        background-color: #220790; /* Replace #FF00FF with your desired background color */
+        box-shadow: 0 0 0 5px #3c06a0; /* Replace #FF0000 with your desired outline color */
+    }
+
+    .fs-3 {
+      color: rgb(0, 0, 0);
+    }
+
+
